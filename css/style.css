@@ -260,7 +260,7 @@ a:hover, a:active, a:focus {
 }
 
 #home hr {
-  width: 82px;
+  width: 100px;
   margin-top: 32px;
 }
 
@@ -285,8 +285,7 @@ a:hover, a:active, a:focus {
 
 #about hr {
   width: 100px;
-  margin-top: 42px;
-  margin-bottom: 42px;
+  margin-top: 32px;
 }
 
 #about ul {
@@ -353,6 +352,10 @@ a:hover, a:active, a:focus {
   padding-top: 62px;
 }
 
+#portfolio hr {
+  width: 100px;
+  margin-top: 32px;
+}
 
 
 /*---------------------------------------
